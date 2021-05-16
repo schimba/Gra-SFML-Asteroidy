@@ -1,0 +1,5 @@
+"E:\Programy\CLion\CLion 2017.3.3\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Piotrek\Desktop\Asteroidy
+-- Found SFML 2.4.2 in C:/Program Files (x86)/mingw-w64/i686-6.1.0-posix-dwarf-rt_v5-rev1/mingw32/include
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Piotrek/Desktop/Asteroidy/cmake-build-debug
